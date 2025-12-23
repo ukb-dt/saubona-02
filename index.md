@@ -78,7 +78,7 @@ Yet cracks exist:
 The devastatingly simple truth here mirrors the AI training saga: Google's empire scales with understanding—of users, data, and distribution. It mastered the pre-AI landscape, but the new one rewards speed, openness, and agentic innovation. Regulators and rivals are forcing openings; whether the flywheel slows or accelerates depends on how nimbly Google adapts without its old lock-ins.
 
 It feels unstoppable today because the inertia is immense. But history shows even the mightiest platforms (think pre-smartphone Nokia or MySpace) plateau when they optimize the wrong landscape. Google isn't there yet—but it's no longer unchallenged.
-# 3
+# [3](https://ukb-dt.github.io/saubona-00/)
 Yes—as of December 23, 2025, Alphabet (Google) has indeed overtaken Microsoft in market capitalization, sitting at approximately **$3.74 trillion** versus Microsoft's **$3.60–3.62 trillion**. This marks a dramatic reversal: Alphabet briefly surpassed Microsoft in late November, dipped slightly, but has reasserted the lead heading into year-end, becoming the world's third-most valuable company (behind Nvidia and Apple).
 
 The Economist piece from October/November 2025 captured the turning point perfectly. At that moment, the industry narrative favored Microsoft's "partnership" model—allying with OpenAI for models, Nvidia/AMD for chips, and hyperscalers for distribution—as more agile and innovative. Google's full vertical integration (custom TPUs → DeepMind models → own products like Search/YouTube) was dismissed as bureaucratic and slow.
